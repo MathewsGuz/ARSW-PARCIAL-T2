@@ -1,0 +1,5 @@
+com\edu\eci\arsw\ARSWParcial\service\weatherServices.class
+com\edu\eci\arsw\ARSWParcial\controller\WeatherApiController.class
+com\edu\eci\arsw\ARSWParcial\service\Weather.class
+com\edu\eci\arsw\ARSWParcial\ArswParcialApplication.class
+com\edu\eci\arsw\ARSWParcial\connection\HttpConnectionExample.class
