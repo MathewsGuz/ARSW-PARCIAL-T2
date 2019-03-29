@@ -1,5 +1,10 @@
 # Parcial 2 ARSW-T2
 
+# Heroku link
+https://guzman-arsw-t2.herokuapp.com/
+
+# Nota esperada
+2.0
 Parcial del segundo tercio
 
 Su compañía lo ha seleccionado para construir una aplicación para consultar el estado del clima en lugares específicos de la tierra.  
